@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const coords = { x: 0, y: 0 };
 const circles = document.querySelectorAll(".circle");
 
+    
 const colors = [
     "#6A4E23", 
     "#9B6B3F", 
