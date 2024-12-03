@@ -191,24 +191,26 @@ animateCircles();
         }
     });
 
-    function calculatePirateIQ(score) {
-        let message = '';
-        let color = '';
+function calculatePirateIQ(score) {
+    let message = '';
+    let color = '';
 
-        if (score >= 18) {
-            message = `Arrr, yer IQ be 160 (Pirate King)! Ye be a master of the seas, a sharp thinker with the wisdom of the ancients! Keep sailin' true, matey!`;
-            color = 'green';
-        } else if (score >= 15) {
-            message = `Yer IQ be between 130 and 159 (Above Average Pirate)! Ye've got the sharp wit of a seasoned pirate! Ready to command yer own ship!`;
-            color = 'blue';
-        } else if (score >= 10) {
-            message = `Yer IQ be between 90 and 129 (Average Pirate). Ye know yer way around the ship and the treasure hunt, but there’s room to grow! Arrr!`;
-            color = 'yellow'; 
-            message = `Yer IQ be below 90 (Landlubber)! But don’t ye worry, ye can always improve yer skills with practice and plenty o' rum!`;
-            color = 'red';
-        }
-
-        return { message, color };
+    if (score >= 18) {
+        message = `Arrr, yer IQ be 160 (Pirate King)! Ye be a master of the seas, a sharp thinker with the wisdom of the ancients! Keep sailin' true, matey!`;
+        color = 'green';
+    } else if (score >= 15) {
+        message = `Yer IQ be between 130 and 159 (Above Average Pirate)! Ye've got the sharp wit of a seasoned pirate! Ready to command yer own ship!`;
+        color = 'blue';
+    } else if (score >= 10) {
+        message = `Yer IQ be between 90 and 129 (Average Pirate). Ye know yer way around the ship and the treasure hunt, but there’s room to grow! Arrr!`;
+        color = 'yellow'; 
+    } else {
+        message = `Yer IQ be below 90 (Landlubber)! But don’t ye worry, ye can always improve yer skills with practice and plenty o' rum!`;
+        color = 'red';
     }
+
+    return { message, color };
+}
+
 });
 
