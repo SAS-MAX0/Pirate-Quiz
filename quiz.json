@@ -1,0 +1,166 @@
+{
+    "questions": [
+      {
+        "question": "You are in a dark room with a candle, a wood stove, and a gas lamp. If you only have one match, what do you light first?",
+        "options": ["The Candle", "The Wood Stove", "The Gas Lamp", "The Match"],
+        "answer": "The Match"
+      },
+      {
+        "question": "You answer me although I never ask you questions. What am I?",
+        "options": ["A Telephone", "A Person", "A Radio", "A Letter"],
+        "answer": "A Telephone"
+      },
+      {
+        "question": "The capital of Turkey is a strange word. Would you please spell “it”?",
+        "options": ["E-T", "I-T", "T-I", "It"],
+        "answer": "I-T"
+      },
+      {
+        "question": "Your mother’s brother’s only brother-in-law is asleep on your couch. Who is asleep on your couch?",
+        "options": ["Your Father", "Your Uncle", "Your Brother", "Your Grandfather"],
+        "answer": "Your Father"
+      },
+      {
+        "question": "Bob’s father has four Mom, Meme, and Mumu is three of them. Who’s the fourth?",
+        "options": ["Bob", "Mum", "Dad", "Uncle"],
+        "answer": "Bob"
+      },
+      {
+        "question": "Some months have 31 days. Some have 30. How many have 28?",
+        "options": ["1", "2", "12", "7"],
+        "answer": "12"
+      },
+      {
+        "question": "I have three apples. If you take away two from me, how many do you have?",
+        "options": ["2", "3", "1", "4"],
+        "answer": "2"
+      },
+      {
+        "question": "Which is greater: six dozen or half a dozen?",
+        "options": ["Six Dozen", "Half a Dozen", "Both are the same", "None"],
+        "answer": "Six Dozen"
+      },
+      {
+        "question": "An electric train is traveling SW at 60mph. The wind is blowing from the NE at 10mph. Which way is the smoke blowing?",
+        "options": ["To the SW", "To the NE", "No smoke", "Both directions"],
+        "answer": "No smoke"
+      },
+      {
+        "question": "A plane crashes on the United States/Canada border. Where are the survivors buried?",
+        "options": ["United States", "Canada", "Neither", "Both"],
+        "answer": "Neither"
+      },
+      {
+        "question": "How can 2 and 2 make more than 4?",
+        "options": ["By adding them", "By placing them side by side", "By multiplying them", "None of the above"],
+        "answer": "By placing them side by side"
+      },
+      {
+        "question": "If I dig 3 feet by 10 feet by 20 feet holes at a rate of 5 holes per day, how much dirt will be in the holes on the 3rd day of digging?",
+        "options": ["5 cubic feet", "10 cubic feet", "0 cubic feet", "50 cubic feet"],
+        "answer": "0 cubic feet"
+      },
+      {
+        "question": "What would you have to add to the Roman Numeral, IX, to make “six”?",
+        "options": ["Add an X", "Add an S", "Add a V", "Add an I"],
+        "answer": "Add an S"
+      },
+      {
+        "question": "The day before yesterday, Suzie was 17. Next year, she will be 20. What day is her birthday?",
+        "options": ["December 31", "January 1", "July 1", "March 1"],
+        "answer": "December 31"
+      },
+      {
+        "question": "I am greater than God and more evil than the devil. The poor have me, the rich need me, and if you eat me, you will die. What am I?",
+        "options": ["Nothing", "Wealth", "Time", "Power"],
+        "answer": "Nothing"
+      },
+      {
+        "question": "There was an evergreen tree in the dark, ugly forest where ghosts, witches, and even Frankenstein lived. All of a sudden, a great gust of wind flew through the forest. Which way did the leaves on the tree fall?",
+        "options": ["To the left", "To the right", "They didn’t fall", "It’s a pine tree, it doesn’t have leaves"],
+        "answer": "It’s a pine tree, it doesn’t have leaves"
+      },
+      {
+        "question": "There once was a lady who liked pink. In her cozy, little one-story house, everything was pink. Even her dog was pink. Her hair, her carpet, everything. What color are her stairs?",
+        "options": ["Pink", "White", "Yellow", "She didn’t have stairs"],
+        "answer": "She didn’t have stairs"
+      },
+      {
+        "question": "How many two-cent stamps are there in a dozen?",
+        "options": ["12", "24", "6", "2"],
+        "answer": "12"
+      },
+      {
+        "question": "A clerk in the butcher shop is 5’10” tall. What does he weigh?",
+        "options": ["Meat", "Vegetables", "Nothing", "Bread"],
+        "answer": "Meat"
+      },
+      {
+        "question": "A farmer has 17 sheep; all but nine die. How many are left?",
+        "options": ["9", "17", "8", "5"],
+        "answer": "9"
+      },
+      {
+        "question": "A doctor gives you three pills telling you to take one every half hour. How long would the pills last?",
+        "options": ["1 hour", "1.5 hours", "30 minutes", "2 hours"],
+        "answer": "1 hour"
+      },
+      {
+        "question": "Divide 30 by 1/2 and add 10. What is the answer?",
+        "options": ["70", "75", "40", "80"],
+        "answer": "70"
+      },
+      {
+        "question": "Is it legal for a man in California to marry his widow’s sister? Why?",
+        "options": ["Yes", "No", "He’s dead", "It’s a myth"],
+        "answer": "He’s dead"
+      },
+      {
+        "question": "Why can’t a man living in the U.S. be buried in Canada?",
+        "options": ["He isn’t dead", "It’s illegal", "There’s no cemetery", "He is alive"],
+        "answer": "He isn’t dead"
+      },
+      {
+        "question": "A woman gives a beggar 1 dollar and 32 cents; the woman is the beggar’s sister, but the beggar is not the woman’s brother. How come?",
+        "options": ["The beggar is her sister", "The beggar is her brother", "The beggar is her son", "It’s a trick question"],
+        "answer": "The beggar is her sister"
+      },
+      {
+        "question": "In a year, some months have 30 days, while some have 31. Guess which month has 28 days?",
+        "options": ["February", "March", "All of them", "August"],
+        "answer": "All of them"
+      },
+      {
+        "question": "If a peanut falls from a tree when the wind is blowing north, where will it land?",
+        "options": ["North", "South", "Peanuts don’t grow on trees", "On the ground"],
+        "answer": "Peanuts don’t grow on trees"
+      },
+      {
+        "question": "Even though it belongs to you, usually others use it, what?",
+        "options": ["Your name", "Your phone", "Your money", "Your house"],
+        "answer": "Your name"
+      },
+      {
+        "question": "What is taken from you before it is given to you?",
+        "options": ["Your photo", "Your name", "Your wallet", "Your clothes"],
+        "answer": "Your photo"
+      },
+      {
+        "question": "There were six apples in a basket and six girls in the room. Each girl took one apple, yet one apple remained in the basket. How?",
+        "options": ["One girl didn’t take any", "The last girl took the basket", "One apple was fake", "They all ate half an apple"],
+        "answer": "The last girl took the basket"
+      },
+      {
+        "question": "Men were playing tennis. They played five sets, and each man won three sets. How did they do this?",
+        "options": ["One man won all", "The two men were partners", "It’s a team match", "They played doubles"],
+        "answer": "The two men were partners"
+      },
+      {
+        "question": "I’m a male. If Albert’s son is my son’s father, what is the relationship between Albert and me?",
+        "options": ["Brother", "Father", "Uncle", "Cousin"],
+        "answer": "Brother"
+      }
+    ]
+  }
+  
+
